@@ -1,5 +1,5 @@
-## Hi there 👋
-Hi my namne is Logan
+Hi my name is Logan
+
 <!--
 **lknorris/lknorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
