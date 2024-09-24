@@ -1,7 +1,8 @@
 <h1>Hi, I'm Logan, an <a href="https://linkedin.com/in/Josh">IT Student</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
-
+-<b>test/example (test/example)
+  -https://github.com/lknorris/Jwipe.PowerShell
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation] (https://github.com/lknorris/OSticket-prereqs/edit/main/README.md)
   - [osTicket: Post-Installation Configuration] (https://github.com/lknorris/OSticket-Post-Instalation/blob/main/README.md)
