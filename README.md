@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 -<b>VPN DEMONSTRATION PROJECT
-  -https://github.com/lknorris/Jwipe.PowerShell
+  [-https://github.com/lknorris/Jwipe.PowerShell](https://github.com/lknorris/VPN-DEMONSTRATION/blob/main/README.md)
 
   - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation] (https://github.com/lknorris/OSticket-prereqs/edit/main/README.md)
