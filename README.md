@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
--<b>test/example (test/example)
+-<b>VPN DEMONSTRATION PROJECT
   -https://github.com/lknorris/Jwipe.PowerShell
 
   - <b>osTicket (Help Desk Ticketing System)</b>
