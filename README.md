@@ -1,4 +1,4 @@
-<h1>Hi, I'm Logan, an <a href="https://linkedin.com/in/Josh">IT support specialist</a>☺</h1>
+<h1>Hi, I'm Logan, an IT support specialist</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
